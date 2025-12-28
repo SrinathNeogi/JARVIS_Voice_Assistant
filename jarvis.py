@@ -269,8 +269,6 @@ def brightness_control(command):
 
 
 """search_pdf function to search pdf file in desktop """
-DESKTOP_PATH = r"C:\Users\KIIT\OneDrive\Desktop"
-import os
 
 DESKTOP_PATH = r"C:\Users\KIIT\OneDrive\Desktop"
 
