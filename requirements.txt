@@ -1,0 +1,7 @@
+pyttsx3
+SpeechRecognition
+pyaudio
+psutil
+screen-brightness-control
+colorama
+python-dotenv
